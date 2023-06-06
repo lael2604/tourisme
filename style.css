@@ -1,0 +1,134 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+
+header{background-image: url(./image/sunrise-1014712_1920.jpg);
+    margin: 0;
+background-size:cover;
+background-position: center;
+    height: 180vh;
+}
+
+.logo a{ color: aliceblue;
+    padding: 0px 20px;
+border: 1px solid #fff;
+position: absolute;
+top: 10px;
+left: 1Opx;
+
+text-decoration: none;
+font-weight: 500;
+text-shadow: rgba(rgb(0, ,0, 0, 0.6)  );
+
+}
+.logo span{color: rgb(174, 205, 0);
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+  ul{ list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+    
+  }
+
+  ul li a {text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid #e6dddd;
+    margin: 1px;
+    font-weight: 900;
+    transition: 0.6,case;
+
+  }
+  .principale{max-width: 114rem;
+margin: 0 auto;
+
+  }
+
+
+.titre{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,50%);
+}
+.titre h1{color: #793304;
+    font-size: 50px;
+    font-style: italic;
+    background-color: #fff;
+}
+
+  ul{ list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+  }
+
+  ul li a {text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid #e6dddd;
+    margin: 3px;
+    font-weight: 500;
+    transition: 0.6,case;
+
+  }
+  .buttom{position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%); 
+  }
+
+  .buttom a{color: #fff;
+    border: 1px solid ghostwhite;
+    margin: 3px;
+    padding: 15px;
+
+  }
+
+  ul li a:hover{background-color: rgb(149, 238, 47);
+    color: #fff;
+  }
+  ul li :active a{background-color: rgb(149, 238, 47);
+    color: #fff;
+
+  }
+   .buttom a:hover{background-color: rgb(149, 238, 47);
+
+  }
+  
+  .edy{
+
+     position: absolute;
+     top: 155%;
+     left: 20%;
+     color: antiquewhite;
+    }
+
+    .normal{position: absolute;
+      top: 60%;
+    }
+
+  .projet{
+    display: flex;
+    padding: 12%;
+  }
+  #about{position: absolute;
+    top: 100%;
+    left: 15%;
+    color: #00010a;
+    background-color: antiquewhite;
+    
+  }
+  .ovd{
+    width: 10px;
+    height: 10PX;
+
+  }
